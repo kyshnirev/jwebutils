@@ -1,0 +1,9 @@
+# vim
+.*.swp
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+
